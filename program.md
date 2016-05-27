@@ -12,7 +12,7 @@ Front Lever PE 1
     - 5x36
     - 5x18
 
-Straddle Planche
+Straddle Planche PE 1
 ---
 - MOB
   - Swivel hips 5 reps
@@ -23,58 +23,58 @@ Straddle Planche
     - 5x9
     - 5x5
     
-Side Lever
+Side Lever PE 1
 ---
 - MOB
   - Standing Hip Circle 10 reps
 - Strength
-  - Seated Russian Twist
+  - Seated Russian Twist Block 2
     - 4x12
     - 4x18
     - 5x18
     - 5x9
     
-Manna
+Manna PE 1
 ---
 - MOB
   - Stiff Leg Windmill 5 reps per side
 - Strength
-  - Tuck up
+  - Tuck up Block 3
     - 4x12
     - 4x15
     - 5x15
     - 5x8
     
-Single Leg Squat
+Single Leg Squat PE 1
 ---
 - MOB
-  - something
+  - Skiers 10 reps
 - Strength
-  - Deck Squat
+  - Deck Squat Block 3
     - 4x12
     - 4x15
     - 5x15
     - 5x8
     
-Hollow Back Press
+Hollow Back Press PE 2
 ---
 - MOB
-  - something
+  - Xiaopeng Forward 5 reps
 - Strength
-  - something
-    - reps
-    - reps
-    - reps
-    - reps
+  - Push-ups Block 2
+    - 4x6
+    - 4x9
+    - 5x9
+    - 5x5
     
-Rope Climb
+Rope Climb PE 1
 ---
 - MOB
   - something
 - Strength
-  - something
-    - reps
-    - reps
-    - reps
-    - reps
+  - Hinge Row Block 2
+    - 4x6
+    - 4x9
+    - 5x9
+    - 5x5
     
