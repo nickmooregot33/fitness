@@ -1,6 +1,8 @@
 Week 1
 ===
 
+Group 1
+===
 Front Lever PE 1
 ---
 - MOB
@@ -23,17 +25,30 @@ Straddle Planche PE 1
     - 5x9
     - 5x5
     
-Side Lever PE 1
+Hollow Back Press PE 2
 ---
 - MOB
-  - Standing Hip Circle 10 reps
+  - Xiaopeng Forward 5 reps
 - Strength
-  - Seated Russian Twist Block 2
-    - 4x12
-    - 4x18
-    - 5x18
+  - Push-ups Block 2
+    - 4x6
+    - 4x9
     - 5x9
-    
+    - 5x5
+
+Rope Climb PE 1
+---
+- MOB
+  - something
+- Strength
+  - Hinge Row Block 2
+    - 4x6
+    - 4x9
+    - 5x9
+    - 5x5
+   
+Group 2
+===
 Manna PE 1
 ---
 - MOB
@@ -44,7 +59,18 @@ Manna PE 1
     - 4x15
     - 5x15
     - 5x8
-    
+       
+Side Lever PE 1
+---
+- MOB
+  - Standing Hip Circle 10 reps
+- Strength
+  - Seated Russian Twist Block 2
+    - 4x12
+    - 4x18
+    - 5x18
+    - 5x9
+
 Single Leg Squat PE 1
 ---
 - MOB
@@ -56,25 +82,5 @@ Single Leg Squat PE 1
     - 5x15
     - 5x8
     
-Hollow Back Press PE 2
----
-- MOB
-  - Xiaopeng Forward 5 reps
-- Strength
-  - Push-ups Block 2
-    - 4x6
-    - 4x9
-    - 5x9
-    - 5x5
-    
-Rope Climb PE 1
----
-- MOB
-  - something
-- Strength
-  - Hinge Row Block 2
-    - 4x6
-    - 4x9
-    - 5x9
-    - 5x5
-    
+Tumbling 
+===
