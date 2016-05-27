@@ -37,24 +37,24 @@ Side Lever
 Manna
 ---
 - MOB
-  - something
+  - Stiff Leg Windmill 5 reps per side
 - Strength
-  - something
-    - reps
-    - reps
-    - reps
-    - reps
+  - Tuck up
+    - 4x12
+    - 4x15
+    - 5x15
+    - 5x8
     
 Single Leg Squat
 ---
 - MOB
   - something
 - Strength
-  - something
-    - reps
-    - reps
-    - reps
-    - reps
+  - Deck Squat
+    - 4x12
+    - 4x15
+    - 5x15
+    - 5x8
     
 Hollow Back Press
 ---
