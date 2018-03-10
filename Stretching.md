@@ -14,7 +14,15 @@
 - [ ] 90 second standing achilles on block left
 - [ ] 90 second narrow hurdler block right
 - [ ] 90 second narrow hurdler block left
+- [ ] 90 standing single pike right
+- [ ] 90 standing single pike left
+- [ ] 90 second vertical lunge bent right
+- [ ] 90 second vertical lunge bent left
+- [ ] 90 second vertical lunge straight right
+- [ ] 90 second vertical lunge straight left
+- [ ] 2 minutes standing pike
 
 # middle splits
+- [ ] 
 
 # thoracic bridge
