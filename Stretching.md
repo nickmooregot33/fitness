@@ -23,6 +23,9 @@
 - [ ] 2 minutes standing pike
 
 # middle splits
-- [ ] 
+- [ ] 10 side to side squats
+- [ ] 2 minutes standing pancake
+
+
 
 # thoracic bridge
