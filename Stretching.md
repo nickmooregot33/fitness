@@ -25,7 +25,29 @@
 # middle splits
 - [ ] 10 side to side squats
 - [ ] 2 minutes standing pancake
-
-
+- [ ] 10 side to side squats
+- [ ] 90 second vertical frog right
+- [ ] 90 second vertical frog left
+- [ ] 90 second piriformis right
+- [ ] 90 second piriformis left
+- [ ] 2 minute diamond frog
+- [ ] 30 second kneeling tuck
+- [ ] 2 minute frog
+- [ ] 30 second kneeling tuck
+- [ ] 90 second frog rock
+- [ ] 60 second butterfly
+- [ ] 90 second pancake shoulder right
+- [ ] 90 second pancake shoulder left
+- [ ] 10 rep seated goodmorning
+- [ ] 10 rep pancake walk
+- [ ] 10 rep pancake bounce
+- [ ] 10 rep pancake circle
+- [ ] 60 second floating pancake
+- [ ] 60 second butterfly
+- [ ] 2 minute wall middle split
+- [ ] 10 rep weighted wall middle split pull
+- [ ] 2 minute isometric middle split
+- [ ] 10 rep supine flair
+- [ ] 10 rep pancake roll through
 
 # thoracic bridge
